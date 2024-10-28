@@ -1,0 +1,19 @@
+
+Assets/Packages/
+Build/
+Library/
+Logs/
+
+Assets/TextMesh Pro
+
+.idea/
+.vs
+obj/
+Temp/
+UserSettings/
+
+*.sln
+*.csproj
+Packages/packages-lock.json
+
+.friflo/
